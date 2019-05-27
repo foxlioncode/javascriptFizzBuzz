@@ -1,0 +1,2 @@
+# javascriptFizzBuzz
+javascriptFizzBuzz
